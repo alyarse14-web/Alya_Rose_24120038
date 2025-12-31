@@ -1,3 +1,50 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Latihan Data Nilai Mahasiswa</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        h2 {
+            text-align: center;
+        }
+        .container {
+            display: flex;
+            gap: 30px;
+            margin-top: 20px;
+        }
+        .box {
+            width: 50%;
+            background: #ff9aec;
+            padding: 20px;
+            border: 1px solid #ff9de2;
+        }
+        h3 {
+            text-align: center;
+        }
+        .identitas {
+            margin-bottom: 15px;
+        }
+        input[type=text],
+        input[type=number] {
+            width: 95%;
+            padding: 5px;
+            margin: 5px 0 15px;
+        }
+        button {
+            padding: 6px 15px;
+            margin-right: 5px;
+        }
+    </style>
+</head>
+<body>
+
+<h2>LATIHAN</h2>
+
+<div class="container">
+    
 <!-- INPUT -->
     <div class="box">
         <div class="identitas">
